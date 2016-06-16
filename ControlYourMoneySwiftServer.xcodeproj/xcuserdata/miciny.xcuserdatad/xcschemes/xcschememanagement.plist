@@ -4,22 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MySQL.xcscheme</key>
+		<key>ControlYourMoneySwiftServer.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F832F6201BD6821D008593A8</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F832F62A1BD6821D008593A8</key>
+		<key>E1DCB8761D12D90800C94871</key>
 		<dict>
 			<key>primary</key>
 			<true/>
